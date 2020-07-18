@@ -7,3 +7,13 @@
 **Thoughts:** I will add CSS later. I feel like I am slowly forcing myself to finally commit, after putting it of for months. Learning is a journey :)
 
 **Link to work:** [Random Quote Generator]
+
+# 100 Days Of Code
+
+### Day 2: July 18, 2020
+
+**Today's Progress**: Worked on script file, added an addEventListener. Functionality is my goal at the moment, before styling.
+
+**Thoughts:** I had a mental block today. It helps to take time off. 
+
+**Link to work:** [Random Quote Generator]
