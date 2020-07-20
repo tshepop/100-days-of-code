@@ -17,3 +17,13 @@
 **Thoughts:** I had a mental block today. It helps to take time off. 
 
 **Link to work:** [Random Quote Generator]
+
+# 100 Days Of Code
+
+### Day 3: July 20, 2020
+
+**Today's Progress**: Re-organized the file structure. Created a css file.
+
+**Thoughts:** I am struggling at maintaining energy levels. I have to keep on going, no matter what!
+
+**Link to work:** [Random Quote Generator]
