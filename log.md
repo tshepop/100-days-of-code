@@ -27,3 +27,13 @@
 **Thoughts:** I am struggling at maintaining energy levels. I have to keep on going, no matter what!
 
 **Link to work:** [Random Quote Generator]
+
+# 100 Days Of Code
+
+### Day 4: July 21, 2020
+
+**Today's Progress**: Updated the css file.
+
+**Thoughts:** Nothing comes easy.
+
+**Link to work:** [Random Quote Generator]
