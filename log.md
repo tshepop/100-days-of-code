@@ -37,3 +37,13 @@
 **Thoughts:** Nothing comes easy.
 
 **Link to work:** [Random Quote Generator]
+
+# 100 Days Of Code
+
+### Day 5: July 22, 2020
+
+**Today's Progress**: Worked on the css file.
+
+**Thoughts:** Maybe I should not try for perfection. Stop improving css scripts, taking too long on this project.
+
+**Link to work:** [Random Quote Generator]
