@@ -47,3 +47,13 @@
 **Thoughts:** Maybe I should not try for perfection. Stop improving css scripts, taking too long on this project.
 
 **Link to work:** [Random Quote Generator]
+
+# 100 Days Of Code
+
+### Day 6: July 23, 2020
+
+**Today's Progress**: Completed the css file.
+
+**Thoughts:** Maybe I should not try for perfection. Challenging one's self is so difficult.
+
+**Link to work:** [Random Quote Generator]
