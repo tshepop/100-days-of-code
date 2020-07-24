@@ -57,3 +57,13 @@
 **Thoughts:** Maybe I should not try for perfection. Challenging one's self is so difficult.
 
 **Link to work:** [Random Quote Generator]
+
+# 100 Days Of Code
+
+### Day 7: July 24, 2020
+
+**Today's Progress**: Refactored the js file, added a link -> google fonts. Read Reactjs docs.
+
+**Thoughts:** Today I had a good day, my enegy levels were up! I'm enjoying this journey. I have to go over topics I don't fully understand - javascript.
+
+**Link to work:** [Random Quote Generator]
