@@ -67,3 +67,15 @@
 **Thoughts:** Today I had a good day, my enegy levels were up! I'm enjoying this journey. I have to go over topics I don't fully understand - javascript.
 
 **Link to work:** [Random Quote Generator]
+
+# 100 Days Of Code
+
+### Day 8: July 25, 2020
+
+**Today's Progress**: Finished with the random quotes generator. I read the MDN docs, jquery succinctly. Finally finished the codepen "pen". The website is working.
+
+**Outstanding** twitter button, needs to send the quotes to twitter. Research twitter API.
+
+**Thoughts:** Practiced jquery for 3 hours, how to use AJAX calls. Touched on React. 
+
+**Link to work:** [https://codepen.io/tshepo1/pen/dvXYbb]
