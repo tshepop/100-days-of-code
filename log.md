@@ -79,3 +79,14 @@
 **Thoughts:** Practiced jquery for 3 hours, how to use AJAX calls. Touched on React. 
 
 **Link to work:** [https://codepen.io/tshepo1/pen/dvXYbb]
+
+# 100 Days Of Code
+
+### Day 9: July 26, 2020
+
+**Today's Progress**: I continued to read the MDN docs, and jquery succinctly.
+
+**Outstanding** twitter button, needs to send the quotes to twitter. Research twitter API.
+
+**Thoughts:** Practice makes perfect. 
+
