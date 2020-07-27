@@ -90,3 +90,12 @@
 
 **Thoughts:** Practice makes perfect. 
 
+# 100 Days Of Code
+
+### Day 10: July 27, 2020
+
+**Today's Progress**: Working through jquery succinctly.
+
+**Outstanding** twitter button, needs to send the quotes to twitter. Research twitter API.
+
+**Thoughts:** Practice, practice, practice. 
