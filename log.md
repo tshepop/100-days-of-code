@@ -99,3 +99,21 @@
 **Outstanding** twitter button, needs to send the quotes to twitter. Research twitter API.
 
 **Thoughts:** Practice, practice, practice. 
+
+# 100 Days Of Code
+
+### Day 11: July 28, 2020
+
+**Today's Progress**: Working through jquery succinctly.
+
+**Outstanding** twitter button, still not working.
+
+**Thoughts:** Practice, practice, practice. 
+
+# 100 Days Of Code
+
+### Day 12: July 29, 2020
+
+**Today's Progress**: complete freecodecamp track. Started the Scrimba react.js course
+
+**Thoughts:** Don't just go through code, without understanding the concept. Repeat until the concept become clear.
