@@ -117,3 +117,12 @@
 **Today's Progress**: complete freecodecamp track. Started the Scrimba react.js course
 
 **Thoughts:** Don't just go through code, without understanding the concept. Repeat until the concept become clear.
+
+# 100 Days Of Code
+
+### Day 13: July 30, 2020
+
+**Today's Progress**: React.js functions, CSS animation, javascript higher order functions.
+
+**Thoughts:** Code, Eat, Code, Sleep, Repeat. 
+
