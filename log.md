@@ -126,3 +126,11 @@
 
 **Thoughts:** Code, Eat, Code, Sleep, Repeat. 
 
+# 100 Days Of Code
+
+### Day 14: July 31, 2020
+
+**Today's Progress**: javascript higher order functions.
+
+**Thoughts:** Code, Eat, Code, Sleep, Repeat. 
+
