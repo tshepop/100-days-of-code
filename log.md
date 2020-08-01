@@ -134,3 +134,10 @@
 
 **Thoughts:** Code, Eat, Code, Sleep, Repeat. 
 
+# 100 Days Of Code
+
+### Day 15: Aug 1, 2020
+
+**Today's Progress**: Introduction to javascript promises.
+
+**Thoughts:** Code, Eat, Code, Sleep, Repeat. 
