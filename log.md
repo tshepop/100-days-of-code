@@ -141,3 +141,11 @@
 **Today's Progress**: Introduction to javascript promises.
 
 **Thoughts:** Code, Eat, Code, Sleep, Repeat. 
+
+# 100 Days Of Code
+
+### Day 16: Aug 2, 2020
+
+**Today's Progress**: javascript promises, CSS transition. Read Web Evolved book.
+
+**Thoughts:** The power of coding or learning how to use the computer as a power user, gives you power in the technology space.
