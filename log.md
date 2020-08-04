@@ -157,3 +157,11 @@
 **Today's Progress**: Html & CSS: Web Evolved book.
 
 **Thoughts:** You cannot do it on your own.
+
+# 100 Days Of Code
+
+### Day 18: Aug 4, 2020
+
+**Today's Progress**: Html & CSS: transitions and transforms - Web Evolved book. Javascript class inheritance.
+
+**Thoughts:** You cannot do it on your own.
