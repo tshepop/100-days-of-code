@@ -165,3 +165,12 @@
 **Today's Progress**: Html & CSS: transitions and transforms - Web Evolved book. Javascript class inheritance.
 
 **Thoughts:** You cannot do it on your own.
+
+# 100 Days Of Code
+
+### Day 19: Aug 5, 2020
+
+**Today's Progress**: Javascript class inheritance. Scrimba React course.
+
+**Thoughts:** The power of one's mind, is great.
+
