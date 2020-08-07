@@ -174,3 +174,10 @@
 
 **Thoughts:** The power of one's mind, is great.
 
+# 100 Days Of Code
+
+### Day 20: Aug 7, 2020
+
+**Today's Progress**: Scrimba React course.
+
+**Thoughts:** The course is easy to follow, practice es6.
