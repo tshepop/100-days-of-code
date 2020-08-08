@@ -181,3 +181,11 @@
 **Today's Progress**: Scrimba React course.
 
 **Thoughts:** The course is easy to follow, practice es6.
+
+# 100 Days Of Code
+
+### Day 21: Aug 8, 2020
+
+**Today's Progress**: freecodecamp, html and css.
+
+**Thoughts:** Weekend, rest is important.
