@@ -189,3 +189,11 @@
 **Today's Progress**: freecodecamp, html and css.
 
 **Thoughts:** Weekend, rest is important.
+
+# 100 Days Of Code
+
+### Day 22: Aug 9, 2020
+
+**Today's Progress**: MDN - html and css.
+
+**Thoughts:** Weekend, Rest.
