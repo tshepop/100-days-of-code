@@ -197,3 +197,11 @@
 **Today's Progress**: MDN - html and css.
 
 **Thoughts:** Weekend, Rest.
+
+# 100 Days Of Code
+
+### Day 23: Aug 10, 2020
+
+**Today's Progress**: The complete javascript course, Eloquent javascript.
+
+**Thoughts:** I just thought maybe, just maybe I work as a front-end developer within six months.
