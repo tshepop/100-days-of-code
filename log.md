@@ -205,3 +205,35 @@
 **Today's Progress**: The complete javascript course, Eloquent javascript.
 
 **Thoughts:** I just thought maybe, just maybe I work as a front-end developer within six months.
+
+# 100 Days Of Code
+
+### Day 24: Aug 11, 2020
+
+**Today's Progress**: Started with 30 days React.js course.
+
+**Thoughts:** front-end or backend development??
+
+# 100 Days Of Code
+
+### Day 25: Aug 12, 2020
+
+**Today's Progress**: CSS @keyframes
+
+**Thoughts:** Use animation properties to control appearance of animation.
+
+# 100 Days Of Code
+
+### Day 26: Aug 13, 2020
+
+**Today's Progress**: Continue with Eloquent javascript.
+
+**Thoughts:** Not an easy book to understand.
+
+# 100 Days Of Code
+
+### Day 27: Aug 14, 2020
+
+**Today's Progress**: Intro to Flex box
+
+**Thoughts:** Understand the basics of box model, then master flex box.
