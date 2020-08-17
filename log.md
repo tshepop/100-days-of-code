@@ -246,3 +246,18 @@
 
 **Thoughts:** “Be yourself; everyone else is already taken.” ― Oscar Wilde
 
+# 100 Days Of Code
+
+### Day 29: Aug 16, 2020
+
+**Today's Progress**: CSS - The Complete guide(incl. Flexbox,Grid and SaaS)
+
+**Thoughts:** “Be the change that you wish to see in the world.” ― Mahatma Gandhi
+
+# 100 Days Of Code
+
+### Day 30: Aug 17, 2020
+
+**Today's Progress**: CSS - The Complete guide(incl. Flexbox,Grid and SaaS)
+
+**Thoughts:** “To live is the rarest thing in the world. Most people exist, that is all.” ― Oscar Wilde
