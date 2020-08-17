@@ -237,3 +237,12 @@
 **Today's Progress**: Intro to Flex box
 
 **Thoughts:** Understand the basics of box model, then master flex box.
+
+# 100 Days Of Code
+
+### Day 28: Aug 15, 2020
+
+**Today's Progress**: Intro to Flex box
+
+**Thoughts:** “Be yourself; everyone else is already taken.” ― Oscar Wilde
+
