@@ -261,3 +261,11 @@
 **Today's Progress**: CSS - The Complete guide(incl. Flexbox,Grid and SaaS)
 
 **Thoughts:** “To live is the rarest thing in the world. Most people exist, that is all.” ― Oscar Wilde
+
+# 100 Days Of Code
+
+### Day 1: Oct 21, 2020
+
+**Today's Progress**: Challenge RESET, started Frontend Web UI Tools and Frameworks
+
+**Thoughts:** “Be the change that you wish to see in the world.” ― Mahatma Gandhi
