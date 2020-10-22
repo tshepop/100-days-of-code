@@ -269,3 +269,11 @@
 **Today's Progress**: Challenge RESET, started Frontend Web UI Tools and Frameworks
 
 **Thoughts:** “Be the change that you wish to see in the world.” ― Mahatma Gandhi
+
+# 100 Days Of Code
+
+### Day 2: Oct 22, 2020
+
+**Today's Progress**: Coursera Frontend Web UI Tools and Frameworks - Bootstrap.
+
+**Thoughts:** “Keep it going.”
