@@ -277,3 +277,17 @@
 **Today's Progress**: Coursera Frontend Web UI Tools and Frameworks - Bootstrap.
 
 **Thoughts:** “Keep it going.”
+
+# 100 Days Of Code
+
+### Day 0: Nov 1, 2020
+
+**Today's Progress**: Counter reset. Start the challenge again!
+
+**Thoughts:** It is very hard to balance my work load. I am unable to find a balance. :(
+
+### Day 1: Nov 1, 2020
+
+**Today's Progress**: Coursera Frontend Web UI Tools and Frameworks - Bootstrap.
+
+**Thoughts:** “Be the change that you wish to see in the world.” ― Mahatma Gandhi
