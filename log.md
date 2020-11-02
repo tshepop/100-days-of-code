@@ -291,3 +291,9 @@
 **Today's Progress**: Coursera Frontend Web UI Tools and Frameworks - Bootstrap.
 
 **Thoughts:** “Be the change that you wish to see in the world.” ― Mahatma Gandhi
+
+### Day 2: Nov 2, 2020
+
+**Today's Progress**: Coursera Bootstrap course. User Input: buttons and forms
+
+**Thoughts:** I have to keep motivating myself.
