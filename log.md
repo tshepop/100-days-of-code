@@ -297,3 +297,9 @@
 **Today's Progress**: Coursera Bootstrap course. User Input: buttons and forms
 
 **Thoughts:** I have to keep motivating myself.
+
+### Day 3: Nov 9, 2020
+
+**Today's Progress**: Coursera Bootstrap course. Alerts and buttons
+
+**Thoughts:** I have to keep motivating myself.
